@@ -4,3 +4,5 @@ beautifulsoup4==4.12.2
 requests==2.32.1
 Pillow==10.3.0
 img2pdf==0.5.5
+python-3.12.0
+
